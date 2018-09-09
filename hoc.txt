@@ -1,0 +1,78 @@
+History of computers
+The history of computers is deeply rooted in the desire
+by mankind to compute basic mathematical functions.
+These and other tasks remain the core functions of
+computers even today.
+The Abacus Calculator
+Initial data manipulation was done using fingers,
+sticks, and stones. The increase in population and the
+need to manipulate even bigger tasks meant that a
+switch to more advanced systems was needed.
+The Chinese used the abacus tables and strings during
+the second century BC. It was the ultimate counting
+machine at the time.
+Z3
+The first digital and programmable computer was
+manufactured in 1941. It was called the Z3 and was
+designed by Konrad Zuse.
+The ENIAC
+The ENIAC (Electronic Numeric Integrator and
+Computer) was also a Turing Complete machine. It
+was used by the US Army Ballistic Research Lab to
+study the feasibility of thermonuclear weaponry, the
+firing of ballistic artillery, and engine thermal ignition. It
+was also used for weather predictions.
+The Microprocessor Generation
+The invention of the personal computer was made
+possible by two technical innovations in the field of
+microelectronics.In 1959, the integrated circuit (IC)
+was developed.In 1971, the microprocessor wasunveiled to the computing world.In 1971, a team of
+engineers working for Intel Corporation (Ted Hoff,
+Federico Faggin, and Stan Mazor) invented the
+microprocessor, calling it the Intel 4004.
+The Altair 8800 and Birth of Microsoft
+In 1975, a company called Micro Instrumentation
+Telemetry Systems (MITS) produced the first
+desktop-size system specifically for personal use.
+It was called the Altair 8800. This device was not
+necessarily the best example of a personal computer
+since interaction with it was limited to very high levels
+of sophistication.A year later, in 1975, Gates and Allen
+formed a software company called Microsoft and they
+began writing software for new computers.
+Apple II and the Birth of Apple Computer
+In 1976, Steve Jobs and Stephen Wozniak designed
+a homemade wooden computer with an integrated
+microprocessor. They named it the Apple I. It was
+targeted at a growing market of computer enthusiasts.
+TRS-80 and Computer Storage
+RadioShack, formerly known as Tandy Corporation,
+introduced the TRS-80 on August 3, 1977.The
+company soon became one of the leading PC sellers. It
+dominated the field because of two attractive features
+it included in its computers: a keyboard and a cathode
+ray display terminal (CRT) monitor.The TRS-80 was
+also popular because it could be programmed and the
+user was able to store data in cassette tapes.
+The IBM PC
+The first truly successful personal computer was theIBM PC, which was launched in 1981. What made this
+machine special and different from Apple II and other
+models was the simple fact that it was built from a
+combination of off-the-shelf parts. It came complete
+with a separate monitor, keyboard, and system unit.
+Smartphones and Tablets
+Computers have gone through fundamental changes
+in both speed and size in a period shorter than 70
+years.When personal computers finally arrived, they
+offered speed without taking up an entire room.The
+reign of desktops and laptops was at its peak during
+the start of the 21st century. From the highest office
+in Washington to the smallest hut in an African
+village, computers had become commonplace.Then
+came the mobile phone, which was immediately
+followed by the tablet computer. This was also the
+period where the internet was becoming a part of
+daily life across the globe.
+By-Rashandeep Singh
+CO18340
+Last modified: 9:32 pm
